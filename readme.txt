@@ -1,1 +1,1 @@
-test tew
+These are solved tasks from JavaRush. Each task has a condition in the readme file. Enjoy it
